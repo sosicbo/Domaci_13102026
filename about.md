@@ -1,5 +1,5 @@
 # Bojana Sosic
 
-- SQL
+- SQL baza podataka
 - Python
 - Databricks
